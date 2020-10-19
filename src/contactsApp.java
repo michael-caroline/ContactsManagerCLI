@@ -65,14 +65,14 @@ public class contactsApp {
                      System.out.println("Please, enter the new contact's number: ");
                      userInput.getString();
                      contactsList.get(i).setNumber(userInput.getString());
+                     return;
                  }
             }
-            System.out.println("Please, enter the new contact's number: ");
-            String number = userInput.getString();
-            Contact newContact = new Contact(name, number);
-            contactsList.add(newContact);
         }
-
+        System.out.println("Please, enter the new contact's number: ");
+        String number = userInput.getString();
+        Contact newContact = new Contact(name, number);
+        contactsList.add(newContact);
     }
 
     public static void contactSearch(ArrayList <Contact> contactsList) throws IOException {
