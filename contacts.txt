@@ -1,22 +1,3 @@
-<<<<<<< HEAD
-Chris hemsworth
-Johnny D
-the hulk
-Ryan Goslin
-Harry Potter
-Timothy Chalamet
-Robin Williams
-hey
-hey
-no
-yo
-the rock
-moana
-pua
-maui
-tomatoa
-Zach Morris
-=======
-Johnny Depp | 5551235678
-Harry Potter | 5551235679
->>>>>>> a333fa7d089ae76086cfa7c99689d5999ae3b608
+Jack Blank | 1231231234
+Jane Doe | 2342342345
+Sam Space | 3453453456
