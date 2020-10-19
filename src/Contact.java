@@ -22,4 +22,9 @@ public class Contact {
     public String getNumber() {
         return this.number;
     }
+
+    public void printContact() {
+        System.out.printf("%-20s |*| %-20s\n", this.name, "        "+ this.number + "      ");
+
+    }
 }
