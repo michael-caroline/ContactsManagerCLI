@@ -9,7 +9,7 @@ public class Input {
     }
 
     public String getString() {
-        System.out.print("Enter a string: ");
+//        System.out.print("Enter a string: ");
         return this.scanner.nextLine();
     }
 
@@ -69,7 +69,7 @@ public class Input {
         do {
             System.out.print("Enter an int between " + min + " and " + max + ": ");
             userInput = getInt();
-        } while (userInput <= min || userInput >= max);
+        } while (userInput < min || userInput > max);
         return userInput;
     }
 
