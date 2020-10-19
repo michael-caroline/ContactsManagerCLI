@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Chris hemsworth
 Johnny D
 the hulk
@@ -15,3 +16,7 @@ pua
 maui
 tomatoa
 Zach Morris
+=======
+Johnny Depp | 5551235678
+Harry Potter | 5551235679
+>>>>>>> a333fa7d089ae76086cfa7c99689d5999ae3b608
