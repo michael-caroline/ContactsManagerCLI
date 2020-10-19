@@ -25,6 +25,6 @@ public class Contact {
 
     public void printContact() {
         System.out.printf("%-20s |*| %-20s\n", this.name, "        "+ this.number + "      ");
-
     }
+
 }
